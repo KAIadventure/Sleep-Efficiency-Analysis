@@ -40,13 +40,13 @@ Each of these pieces helps us understand what’s happening in our sleep lives a
 
 ## Real-World Uses 🌏
 Here’s how these findings could be used in the real world:
-- **Personalized Wellness Apps** 📱: Track daily lifestyle habits to give personalized sleep improvement tips.
+- **Personalised Wellness Apps** 📱: Track daily lifestyle habits to give personalised sleep improvement tips.
 - **Healthcare Insights** 🩺: Doctors can better understand how lifestyle habits contribute to sleep issues.
 - **Public Awareness Campaigns** 📢: Promote awareness about how alcohol, exercise, and even caffeine impact sleep quality.
 
 ## Future Plans 🔮
 - **Advanced Features**: Try building combined lifestyle scores or look at lifestyle interactions for deeper insights.
-- **Bigger, Broader Data**: Apply this analysis to larger and more diverse datasets for generalized results.
+- **Bigger, Broader Data**: Apply this analysis to larger and more diverse datasets for generalised results.
 - **Long-Term Trends**: Use time series analysis to track how sleep and lifestyle changes evolve over time.
 
 ## Skills on Display 🛠️
